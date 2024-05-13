@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "Lost Life Rp";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -85,10 +85,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
-	{youtube: "j0PA0PX7lKo", name: "セプテットはディナーと共に"},
-	{youtube: "yHZfHPhNjXo", name: "いざオペラ座へ"},
-	{youtube: "-7VeTkLKdDw", name: "Departure"}
+	{youtube: "_WCD3Z9UmJ4", name: "Metro Boomin & Future - Superhero (Heroes & Villains) [Official Music Video]"}
 ];
 
 /*Random music order?*/
@@ -103,9 +100,8 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Enjoy the server",
-"Thanks for joining us!",
-"Did you know these backgrounds and songs are from Touhou?"
+"Bienvenue sur Lost Life Rp",
+"Amusez-vous bien !"	
 ];
 
 /*Random message order?*/
